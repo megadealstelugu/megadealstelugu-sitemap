@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+
   <url>
-    <loc>https://www.megadealstelugu.shop/home</loc>
+    <loc>https://megadealstelugu.github.io/megadealstelugu-sitemap/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.megadealstelugu.shop/why-join-us</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.megadealstelugu.shop/join-telegram-channel</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.megadealstelugu.shop/todays-deals</loc>
+    <loc>https://megadealstelugu.github.io/megadealstelugu-sitemap/home.html</loc>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://www.megadealstelugu.shop/festival-sale-updates</loc>
+    <loc>https://megadealstelugu.github.io/megadealstelugu-sitemap/why-join-us.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://megadealstelugu.github.io/megadealstelugu-sitemap/join-telegram-channel.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://megadealstelugu.github.io/megadealstelugu-sitemap/todays-deals.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://megadealstelugu.github.io/megadealstelugu-sitemap/festival-sale-updates.html</loc>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.megadealstelugu.shop/ℹabout-us</loc>
+    <loc>https://megadealstelugu.github.io/megadealstelugu-sitemap/about-us.html</loc>
     <priority>0.5</priority>
   </url>
 
   <url>
-    <loc>https://www.megadealstelugu.shop/disclaimer</loc>
+    <loc>https://megadealstelugu.github.io/megadealstelugu-sitemap/disclaimer.html</loc>
     <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://www.megadealstelugu.shop/stay-connected</loc>
+    <loc>https://megadealstelugu.github.io/megadealstelugu-sitemap/stay-connected.html</loc>
     <priority>0.4</priority>
   </url>
 
 </urlset>
+
